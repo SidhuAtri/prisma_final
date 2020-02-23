@@ -1,0 +1,321 @@
+
+									<!-- Start single team member -->
+									<div class="mu-single-speakers">
+							<img  src="./assets/images/m03.jpg" alt="team member img">
+										<div class="mu-single-speakers-info">
+											<h3> Mradul Jain</h3>
+										<p>Secretary Cultural Wing<br>
+											<a href="https://www.facebook.com/mradul.jain.12?ref=br_rs" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+											</p>
+										</div>
+
+									</div>
+									<!-- End single team member -->
+
+									<!-- Start single team member -->
+									<div class="mu-single-speakers">
+							<img src="./assets/images/m04.jpg" alt="team member img">
+										<div class="mu-single-speakers-info">
+											<h3> Ankur Sharma </h3>
+											<p>Joint Secretary Cultural<br>
+											<a href="https://www.facebook.com/ankyvampires?ref=br_rs" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+											</p>
+										</div>
+
+									</div>
+									<!-- End single team member -->
+
+									<!-- Start single team member -->
+									<div class="mu-single-speakers">
+							<img src="./assets/images/m05.jpg" alt="team member img">
+										<div class="mu-single-speakers-info">
+											<h3> Palash Sharma </h3>
+											<p>Joint Secretary Dance<br><br>
+											<a href="https://www.facebook.com/palash.sharma.370?ref=br_rs" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+											</p>
+										</div>
+
+									</div>
+									<!-- End single team member -->
+
+									<!-- Start single team member -->
+									<div class="mu-single-speakers">
+							<img src="./assets/images/m06.jpg" alt="team member img">
+										<div class="mu-single-speakers-info">
+											<h3> Yash Kushwaha </h3>
+											<p>Joint Secretary Music<br><br>
+											<a href="https://www.facebook.com/yash.kushwah.79?ref=br_rs" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+											</p>
+										</div>
+
+									</div>
+									<!-- End single team member -->
+
+									<!-- Start single team member -->
+									<div class="mu-single-speakers">
+							<img src="assets/images/m07.jpg" alt="team member img">
+										<div class="mu-single-speakers-info">
+											<h3> Kanak Mishra </h3>
+											<p>Joint Secretary Drama<br><br>
+											<a href="https://www.facebook.com/mishra5kanak?ref=br_rs" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+											</p>
+										</div>
+
+									</div>
+									<!-- End single team member -->
+
+									<!-- Start single team member -->
+									<div class="mu-single-speakers">
+							<img src="assets/images/m08.jpg" alt="team member img" >
+										<div class="mu-single-speakers-info">
+											<h3> Aishwarya Mishra </h3>
+											<p>Joint Secretary Cultural<br> Coordination Committee<br>
+											<a href="https://www.facebook.com/aishwarya.mishra.7543?ref=br_rs" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+											</p>
+										</div>
+
+									</div>
+									<!-- End single team member -->
+
+									<!-- Start single team member -->
+									<div class="mu-single-speakers">
+							<img src="assets/images/m09.jpg" alt="team member img">
+										<div class="mu-single-speakers-info">
+											<h3> Navneet Khare </h3>
+											<p>Secretary Literary Wing<br><br>
+											<a href="https://www.facebook.com/navneet.khare.7?ref=br_rs" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+											</p>
+										</div>
+
+									</div>
+									<!-- End single team member -->
+
+									<!-- Start single team member -->
+									<div class="mu-single-speakers">
+							<img src="assets/images/m10.jpg" alt="team member img">
+										<div class="mu-single-speakers-info">
+											<h3> Apoorv Mishra </h3>
+											<p>Joint Secretary Events<br><br>
+											<a href="https://www.facebook.com/apok1202?ref=br_rs" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+											</p>
+										</div>
+
+									</div>
+									<!-- End single team member -->
+									
+									<!-- Start single team member -->
+									<div class="mu-single-speakers">
+							<img src="assets/images/m11.jpg" alt="team member img">
+										<div class="mu-single-speakers-info">
+											<h3> Sumedha Sagar </h3>
+											<p>Joint Secretary Theatre<br><br>
+											<a href="https://www.facebook.com/sumedha.sagar.940?ref=br_rs" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+											</p>
+										</div>
+
+									</div>
+									<!-- End single team member -->
+									
+																	<!-- Start single team member -->
+									<div class="mu-single-speakers">
+							<img src="assets/images/m12.jpg" alt="team member img">
+										<div class="mu-single-speakers-info">
+											<h3> Aman Singh </h3>
+											<p>Joint Secretary Debate<br><br>
+											<a href="https://www.facebook.com/moose978?ref=br_rs" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+											</p>
+										</div>
+
+									</div>
+									<!-- End single team member -->
+									
+																	<!-- Start single team member -->
+									<div class="mu-single-speakers">
+							<img src="assets/images/m13.jpg" alt="team member img">
+										<div class="mu-single-speakers-info">
+											<h3> Sarthak Pandey </h3>
+											<p>Joint Secretary Publications<br><br>
+											<a href="https://www.facebook.com/sarthak.apotheosized?ref=br_rs" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+											</p>
+										</div>
+
+									</div>
+									<!-- End single team member -->
+									
+																	<!-- Start single team member -->
+									<div class="mu-single-speakers">
+							<img src="assets/images/m14.jpg" alt="team member img">
+										<div class="mu-single-speakers-info">
+											<h3> Ashay Pare </h3>
+											<p>Joint Secretary Foreign<br>
+												Language Information Program<br>
+											<a href="https://www.facebook.com/profile.php?id=100009394313107&ref=br_rs" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+											</p>
+										</div>
+
+									</div>
+									<!-- End single team member -->
+									
+																	<!-- Start single team member -->
+									<div class="mu-single-speakers">
+							<img src="assets/images/m15.jpg" alt="team member img">
+										<div class="mu-single-speakers-info">
+											<h3> Akash Baghel </h3>
+											<p>Secretary Art & Event<br><br>
+											<a href="https://www.facebook.com/akash3031996?ref=br_rs" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+											</p>
+										</div>
+
+									</div>
+									<!-- End single team member -->
+									
+																	<!-- Start single team member -->
+									<div class="mu-single-speakers">
+							<img src="assets/images/m16.jpg" alt="team member img">
+										<div class="mu-single-speakers-info">
+											<h3> Akriti Dixit </h3>
+											<p>Joint Secretary Art & Event<br><br>
+											<a href="https://www.facebook.com/profile.php?id=100005984118305" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+											</p>
+										</div>
+
+									</div>
+									<!-- End single team member -->
+									
+																	<!-- Start single team member -->
+									<div class="mu-single-speakers">
+							<img src="assets/images/m17.jpg" alt="team member img">
+										<div class="mu-single-speakers-info">
+											<h3> Shashank Jha </h3>
+											<p>Joint Secretary Security<br><br>
+											<a href="https://www.facebook.com/shashank.jha.3382?ref=br_rs" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+											</p>
+										</div>
+
+									</div>
+									<!-- End single team member -->
+									
+																	<!-- Start single team member -->
+									<div class="mu-single-speakers">
+							<img src="assets/images/m18.jpg" alt="team member img">
+										<div class="mu-single-speakers-info">
+											<h3> Devansh Babbar </h3>
+											<p>Joint Secretary Hospitality<br><br>
+											<a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+											</p>
+										</div>
+
+									</div>
+									<!-- End single team member -->
+									
+																	<!-- Start single team member -->
+									<div class="mu-single-speakers">
+							<img src="assets/images/m19.jpg" alt="team member img">
+										<div class="mu-single-speakers-info">
+											<h3> Aashna Khattri </h3>
+											<p>Joint Secretary Decoration<br>
+											<a href="https://www.facebook.com/aashna.khattri?ref=br_rs" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+											</p>
+										</div>
+
+									</div>
+									<!-- End single team member -->
+									
+																	<!-- Start single team member -->
+									<div class="mu-single-speakers">
+							<img src="assets/images/m20.jpg" alt="team member img">
+										<div class="mu-single-speakers-info">
+											<h3> Harsh Arora </h3>
+											<p>Joint Secretary Inventory<br> Management<br>
+												and Banner<br>
+											<a href="https://www.facebook.com/profile.php?id=100004798367501&ref=br_rs" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+											</p>
+										</div>
+
+									</div>
+									<!-- End single team member -->
+									
+																	<!-- Start single team member -->
+									<div class="mu-single-speakers">
+							<img src="assets/images/m21.jpg" alt="team member img">
+										<div class="mu-single-speakers-info">
+											<h3> Saksham Saxena </h3>
+											<p>Secretary Media Wing<br>
+											<a href="https://www.facebook.com/saksham.wildcard?ref=br_rs" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+											</p>
+										</div>
+
+									</div>
+									<!-- End single team member -->
+									
+																	<!-- Start single team member -->
+									<div class="mu-single-speakers">
+							<img src="assets/images/m22.jpg" alt="team member img">
+										<div class="mu-single-speakers-info">
+											<h3> Prafful Sharma </h3>
+											<p>Joint Secretary Photography<br>
+											<a href="https://www.facebook.com/prafful.sharma.710" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+											</p>
+										</div>
+
+									</div>
+									<!-- End single team member -->
+									
+																	<!-- Start single team member -->
+									<div class="mu-single-speakers">
+							<img src="assets/images/m23.jpg" alt="team member img">
+										<div class="mu-single-speakers-info">
+											<h3> Sahil Bhatia </h3>
+											<p>Joint Secretary Designing<br>
+											<a href="https://www.facebook.com/SahilBhatia97?ref=br_rs" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+											</p>
+										</div>
+
+									</div>
+									<!-- End single team member -->
+									
+																	<!-- Start single team member -->
+									<div class="mu-single-speakers">
+							<img src="assets/images/m24.jpg" alt="team member img">
+										<div class="mu-single-speakers-info">
+											<h3> Siddhartha Singh </h3>
+											<p>Joint Secretary Multimedia<br>
+											<a href="https://www.facebook.com/adogplayingpoker?ref=br_rs" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+											</p>
+										</div>
+
+									</div>
+									<!-- End single team member -->
+									
+																	<!-- Start single team member -->
+									<div class="mu-single-speakers">
+							<img src="assets/images/m25.jpg" alt="team member img">
+										<div class="mu-single-speakers-info">
+											<h3> Prateek Sharma </h3>
+											<p>Joint Secretary Videography<br>
+											<a href="https://www.facebook.com/prateeksharma13?ref=br_rs" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+											</p>
+										</div>
+
+									</div>
+									<!-- End single team member -->
+									
+																	<!-- Start single team member -->
+									<div class="mu-single-speakers">
+							<img src="assets/images/m26.jpg" alt="team member img">
+										<div class="mu-single-speakers-info">
+											<h3> Parth Srivastava </h3>
+											<p>Joint Secretary Inventory<br>
+											<a href="https://www.facebook.com/parthshrivastava11?ref=br_rs" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+											</p>
+										</div>
+
+									</div>
+									<!-- End single team member -->
+									
+								</div>
+
+								
+							</div>
+							</div>
+							</div>
