@@ -847,18 +847,19 @@ fo
 
 .button-events{
 	border: 3px solid white;
-	height: 55px;
+	height: 80px;
 	width: 300px;
 	font: bolder;
-	background-color: black;
+	background-color: darkred;
 }
 
 .button-events a{
 	color: white;
+	
 }
 
 .button-events:hover{
-	background-color: darkred;
+	background-color: black;
 }
 
 .secretaries{
@@ -1328,21 +1329,20 @@ fo
 
 .mu-sponsors-content {
 	display: inline;
-	
-	margin-top: 50px;
-	width: 80%;
 }
 
 .mu-sponsors-single {
 	display: inline;
-	
-	margin-top: 10px;
+	justify-content: center;
 	padding-bottom: 20px;
-	width: 100%;
+	
+	
 }
 
 .mu-sponsors-single img{
 	padding: 2% 3% 3% 3%;
+	height: 200px;
+	width: 400px;
 }
 
 /*--------------------*/
