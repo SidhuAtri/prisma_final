@@ -2399,6 +2399,13 @@ img::-moz-selection {
 	border: 3px white solid;
 }
 
+.star-night{
+	margin-top: 0;
+	width: 800px;
+	height:400px;
+	border: 3px white solid;
+}
+
 #soc{
 	position: absolute;
 	left:100px;
